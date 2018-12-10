@@ -9,6 +9,7 @@ LOGO = ""\
 "  /_______  //___/\  \____|__  /_______ \____|_  /\n" \
 "          \/       \_/       \/        \/      \/ \n"\
 "\nSELECTOR EXTENSIBLE MARKUP LANGUAGE REPLACER TOOL v0.1\n"\
+"December 10, 2018\n"\
 "Author: Bastian Muhlhauser\n"
 
 print(LOGO)
